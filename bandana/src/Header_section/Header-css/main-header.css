@@ -1,0 +1,28 @@
+.main-header {
+    width: 100%;
+    background: #0f172a; /* dark navy */
+    box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+}
+
+.main-header header {
+    max-width: 1200px;
+    margin: auto;
+    padding: 5px 10px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Optional: smooth hover effect for nav items */
+.main-header a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: 500;
+    transition: 0.3s;
+}
+
+.main-header a:hover {
+    color: #38bdf8; /* light blue */
+}

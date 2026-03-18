@@ -1,0 +1,43 @@
+.header-navbar {
+    height: 40px;
+    width: auto;
+    padding: 0%;
+    margin: 0;
+
+}
+
+.home {
+    height: 25px;
+    width: 45px;
+    align-items: center;
+    background-color: black;
+    color: white;
+    margin-left: 5px;
+}
+
+.about {
+    height: 25px;
+    width: 50px;
+    align-items: center;
+    background-color: black;
+    color: white;
+    margin-left: 5px;
+}
+
+.business-with-us {
+    height: 25px;
+    width: 130px;
+    align-items: center;
+    background-color: black;
+    color: white;
+    margin-left: 5px;
+}
+
+.products {
+    height: 25px;
+    width: 80px;
+    align-items: center;
+    background-color: black;
+    color: white;
+    margin-left: 5px;
+}
